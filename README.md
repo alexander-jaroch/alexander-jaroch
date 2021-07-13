@@ -1,2 +1,5 @@
 ### Languages
-C#, C++, TypeScript, Java, Kotlin, Python, React (learning)
+C#, C++, TypeScript, Java, Kotlin, Python
+
+### Currently Learning
+Ract
